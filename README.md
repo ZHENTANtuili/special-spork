@@ -14,6 +14,6 @@
 ## 欢迎提出修改意见
 
 您可以提出任何修改意见！也可以修改文件！
-## 每日扫盘
+## 每日重启
 
-电脑`Win+r`后再输入`cmd`打开命令提示符，`dir\S`一行命令，开始您的扫盘之路；使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 开启重启电脑之路
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 开启重启电脑之路
